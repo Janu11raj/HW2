@@ -8,9 +8,15 @@ effectively
 To run the code, the following requirements must be met:
 
 Python
+
 Cuda (GPU)
+
 torch
+
 scipy
+
 numpy
+
 pandas
+
 pickle
